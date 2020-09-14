@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/1454297/93050547-4da0ed80-f620-11ea-9ccc-1b6afa39d006.png" alt="Redmine logo" title="Redmine" align="right" height="60" />
+
 # Changeset Branches
 
 [![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-blue)](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-blue)
@@ -41,5 +43,5 @@ Changeset Branches plugin is under the MIT license. See the [LICENSE](https://gi
 [(Back to top)](#table-of-contents)
 
 * [Source code](https://github.com/a-kushnir/changeset_branches)
-* How to override Redmine views: http://www.redmine.org/boards/3/topics/33949
-* How to take git branches for specified commit: https://github.com/mikoto20000/redmine_git_branch_hook
+* [Redmine view override](http://www.redmine.org/boards/3/topics/33949)
+* [Git branches for commit](https://github.com/mikoto20000/redmine_git_branch_hook)
