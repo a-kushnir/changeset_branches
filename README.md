@@ -31,7 +31,7 @@ A Redmine plugin that adds branches for Associated revisions section on Issue pa
 
 1. Clone this repository
 ```
-$ git clone https://github.com/a-kushnir/x-stocks.git
+$ git clone https://github.com/a-kushnir/changeset_branches.git
 ```
 2. Put them in _redmine/plugins_ directory
 3. Run migrations
