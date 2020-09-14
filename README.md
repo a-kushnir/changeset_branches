@@ -27,9 +27,17 @@ A Redmine plugin that adds branches for Associated revisions section on Issue pa
 
 # Installation
 
-1. Download sources
-2. Put them in redmine\plugins directory
-3. Run redmine:plugins:migrate rake task
+[(Back to top)](#table-of-contents)
+
+1. Clone this repository
+```
+$ git clone https://github.com/a-kushnir/x-stocks.git
+```
+2. Put them in _redmine/plugins_ directory
+3. Run migrations
+```
+$ rails db:migrate
+```
 4. Restart Redmine
 
 # License
