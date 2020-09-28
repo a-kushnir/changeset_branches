@@ -7,14 +7,23 @@
 [![Redmine](https://img.shields.io/badge/plugin-redmine-orange)](https://img.shields.io/badge/plugin-redmine-orange)
 [![License](https://img.shields.io/github/license/a-kushnir/x-stocks)](https://img.shields.io/github/license/a-kushnir/changeset-branches)
 
-A Redmine plugin that adds branches for Associated revisions section on Issue page.
+A Redmine plugin that adds filtering by git branch name to Associated revisions section on Issue page. The feature implemented by overriding UI as well as a background worker that scans git repository for new commits.
 
 # Table of contents
 
+- [Screenshots](#Screenshots)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [License](#license)
 - [Links](#links)
+
+# Screenshots
+
+[(Back to top)](#table-of-contents)
+
+Associated Revisions can be filtered by git branch name:
+
+![Screenshot](https://user-images.githubusercontent.com/1454297/94387330-17c33500-0107-11eb-97f9-740f3de624ea.png)
 
 # Requirements
 
